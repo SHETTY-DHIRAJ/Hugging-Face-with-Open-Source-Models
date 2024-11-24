@@ -62,4 +62,4 @@ The project consists of 13 Jupyter notebooks, each dedicated to a specific task:
 
 ## Acknowledgements
 
- - This project was inspired and developed based on the concepts learned in the [Open Source Models with Hugging Face](https://www.coursera.org/projects/open-source-models-with-hugging-face) on Coursera. Special thanks to the course creators for their comprehensive content and Hugging Face Hub for providing open access to high-quality models.
+- This project was inspired and developed based on the concepts learned in the [Open Source Models with Hugging Face](https://www.coursera.org/projects/open-source-models-with-hugging-face) on Coursera. Special thanks to the course creators for their comprehensive content and Hugging Face Hub for providing open access to high-quality models.
