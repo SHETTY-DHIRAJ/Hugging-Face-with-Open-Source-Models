@@ -1,4 +1,4 @@
-# Hugging-Face-with-Open-Source-Models
+# Hugging Face with Open Source Models
 
 This project demonstrates the use of Hugging Face’s **transformers library** to perform various NLP, audio, image, and multimodal tasks. The models and weights are sourced from the Hugging Face Hub, enabling developers to innovate and create applications easily. Additionally, the project showcases how to deploy these functionalities as user-friendly AI applications using **Gradio** on Hugging Face Spaces.
 
